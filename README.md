@@ -1,4 +1,4 @@
-# Captación API
+# Gemstone Catalog
 
 This is just a gemstone catalog in spanish, use it at your conveninece.
 
